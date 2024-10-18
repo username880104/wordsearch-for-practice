@@ -1,0 +1,31 @@
+header {
+  color: #555;
+  margin: 18px 18px 0;
+  border-bottom: 4px solid teal;
+  position: relative;
+}
+
+.the {
+  color: teal;
+  width: 25px;
+  height: 7px;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.word {
+  color: teal;
+  width: 90px;
+  height: 15px;
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.search {
+  color: teal;
+  font-weight: 1000;
+  font-size: 75px;
+  display: inline-block;
+  width: 500px;
+  height: 75x;
+}

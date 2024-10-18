@@ -1,0 +1,17 @@
+@import "header.css";
+@import "footer.css";
+@import "main.css";
+
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  position: relative;
+  background: #faffe4;
+  font-family: Rubik, sans-serif;
+  color: #555;
+  margin: 6px 6px 0;
+  padding: 0 50px;
+}
